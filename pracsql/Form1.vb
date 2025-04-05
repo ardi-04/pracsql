@@ -1,5 +1,6 @@
 ﻿Imports MySql.Data.MySqlClient
 
+
 Public Class Form1
 
     Private Sub InsertButton_Click(sender As Object, e As EventArgs) Handles InsertButton.Click
