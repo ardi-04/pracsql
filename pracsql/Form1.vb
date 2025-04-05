@@ -3,6 +3,7 @@
 
 Public Class Form1
 
+    Dim trydaw As Integer
     Private Sub InsertButton_Click(sender As Object, e As EventArgs) Handles InsertButton.Click
         ' Get the values from the textboxes and combo boxes on the form
         Dim customerName As String = customerNameTextBox.Text
